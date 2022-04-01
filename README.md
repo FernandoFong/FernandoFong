@@ -1,4 +1,4 @@
-# Hello, there! <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/46f437a95b1de43238c290a9c416c8d4.png" alt="kenobi" height="40" width="40"/>
+# <p> Hello, there! <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/46f437a95b1de43238c290a9c416c8d4.png" alt="kenobi" height="40" width="40"/> </p>
 
 ##### My name is Fernando Fong, I studied Computer Science at National Autonomous University of Mexico (UNAM), my field of specialty is High Performance Computing, also at UNAM
 
