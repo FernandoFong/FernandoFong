@@ -24,5 +24,5 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/77/10/a5/7710a52f6d304ed77ac45827b75b16b1.gif"/>
+  <img src="https://c.tenor.com/jWHiKwSPwdEAAAAd/wink-got-it-dude.gif"/>
 </p>
