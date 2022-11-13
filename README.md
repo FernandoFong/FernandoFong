@@ -22,7 +22,8 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
   <a href="https://www.raspberrypi.com/documentation/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="40" width="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://docs.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="40"/></a>
-  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" height="40" width="80"><a/>
+  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" height="40" width="80"></a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://spring.io/images/spring-logo-2022-93b99aee11ba10c57283810ff6f7f500.svg" height="40" width="100"></a>
 </p>
 
 <p align="center">
