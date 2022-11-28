@@ -2,15 +2,15 @@
 
 I'm Fernando Fong, I studied Computer Science at National Autonomous University of Mexico (UNAM), my field of specialty is High Performance Computing, also at UNAM
 
-My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardware and Architecture, Robotics, Electronics, Concurrent Programming, Networking and Cybersecurity (beginner).
+My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardware and Architecture, Robotics, Electronics, Concurrent Programming, Networking and Cybersecurity and Blockchain development (beginner).
 
 - 🔭 I’m currently working at Oracle, as a Fusion Applications Developer (Full-stack Developer)
-- 🌱 I’m currently learning Brownie.
+- 🌱 I’m currently learning Brownie for Blockchain Development.
 - 📫 How to reach me: Email me at fernandofong@ciencias.unam.mx
 - ⚡ About me: Sports and pets lover. 🎾 🏈 ⚽ 🏀 ⚾ 🐕 🐱 🦜
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/77/10/a5/7710a52f6d304ed77ac45827b75b16b1.gif"/>
+  <img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/70/25/bc/7025bc12a3de34152dba08f8088cbe3d.gif">
 </p>
 
 # Technology skills
