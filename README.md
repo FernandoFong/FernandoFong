@@ -6,7 +6,7 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
 
 - 🔭 I’m currently working at Oracle, as a Fusion Applications Developer (Full-stack Developer)
 - 🌱 I’m currently learning Brownie for Blockchain Development.
-- 📫 How to reach me: Email me at fernandofong@ciencias.unam.mx
+- 📫 How to reach me: Email me at fernandofong@ciencias.unam.mx or fer.fong.ff@gmail.com
 - ⚡ About me: Sports and pets lover. 🎾 🏈 ⚽ 🏀 ⚾ 🐕 🐱 🦜
 
 <p align="center">
