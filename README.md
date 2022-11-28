@@ -41,7 +41,7 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
 <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" height="40" width="40"></a>
 </p>
 
-### Microelectroics
+### Microelectronics
 <p align="left">
 <a href="https://docs.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" height="40" width="50"/></a>
   <a href="https://www.raspberrypi.com/documentation/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="40" width="40"/></a>
