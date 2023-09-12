@@ -36,7 +36,7 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
 
 ### Web Development Frameworks
 <p>
-<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://spring.io/images/spring-logo-2022-93b99aee11ba10c57283810ff6f7f500.svg" height="40" width="100"></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height="40" width="100"></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" width="100"></a>
 <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" height="40" width="40"></a>
 </p>
