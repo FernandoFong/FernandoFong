@@ -48,7 +48,7 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
   <a href="https://www.raspberrypi.com/documentation/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="40" width="40"/></a>
 </p>
 
-### DBMS'
+### DBMS
 <p align="left">
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a>
