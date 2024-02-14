@@ -4,7 +4,7 @@ I'm Fernando Fong, I studied Computer Science at National Autonomous University 
 
 My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardware and Architecture, Robotics, Electronics, Concurrent Programming, Networking and Cybersecurity and Blockchain development (beginner).
 
-- 🔭 I’m currently working at Oracle, as a Fusion Applications Developer (Full-stack Developer)
+- 🔭 I’m currently working at Expedia, as a Software Development Engineer
 - 🌱 I’m currently learning React for Front-End Development.
 - 📫 How to reach me: Email me at fernandofong@ciencias.unam.mx or fer.fong.ff@gmail.com
 - ⚡ About me: Sports and pets lover. 🎾 🏈 ⚽ 🏀 ⚾ 🐕 🐱 🦜
