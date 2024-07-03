@@ -24,6 +24,7 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" width="40"></a>
+  <a href="https://kotlinlang.org/docs/home.html"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" width="40"></a>
 </p>
 
 ### Development tools
@@ -48,11 +49,12 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
   <a href="https://www.raspberrypi.com/documentation/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="40" width="40"/></a>
 </p>
 
-### DBMS
+### Query Languages and DBMS'
 <p align="left">
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a>
 <a href="https://docs.oracle.com/en/database/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></a>
+  <a href="https://graphql.org/learn/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></a>
 </p>
 
 # GitHub Stats
