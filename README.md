@@ -4,12 +4,12 @@
 
 I'm Fernando Fong, all my studies are in the National Autonomous University of Mexico (UNAM)
 
-My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardware and Architecture, Robotics, Electronics, Concurrent Programming, Networking and Cybersecurity and Blockchain development (beginner).
+My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardware and Architecture, Robotics, Electronics, Concurrent Programming, Networking and Cybersecurity and Front-End development.
 
 - 🔭 I’m currently working at Expedia, as a Software Development Engineer
-- 🌱 I’m currently learning React for Front-End Development.
+- 🌱 I’m currently learning Github Actions for CI/CD.
 - 📫 How to reach me: Email me at fernandofong@ciencias.unam.mx or fer.fong.ff@gmail.com
-- ⚡ About me: Sports and pets lover. 🎾 🏈 ⚽ 🏀 ⚾ 🐕 🐱 🦜
+- ⚡ About me: Sports and pets lover. 🏈 🎾 ⚽ 🏀 ⚾ 🐕 🐱 🦜
 
 <p align="center">
   <img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/originals/70/25/bc/7025bc12a3de34152dba08f8088cbe3d.gif">
@@ -35,6 +35,8 @@ My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardwa
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://docs.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="40"/></a>
   <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" height="40" width="80"></a>
+  <a href="https://www.jenkins.io/doc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="40"></a>
+  <a href="https://site.mockito.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" height="40" width="80"></a>
 </p>
 
 ### Web Development Frameworks
