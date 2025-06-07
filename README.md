@@ -1,6 +1,8 @@
 # <p> Hello, there! <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/46f437a95b1de43238c290a9c416c8d4.png" alt="kenobi" height="40" width="40"/> </p>
 
-I'm Fernando Fong, I studied Computer Science at National Autonomous University of Mexico (UNAM), my field of specialty is High Performance Computing on which I got certified also at UNAM. 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=006438&width=435&lines=Software+Developer+Engineer;Computer+Scientist;HPC+Specialist;HPC+(High+Performance+Computing)" alt="Typing SVG" /></a>
+
+I'm Fernando Fong, all my studies are in the National Autonomous University of Mexico (UNAM)
 
 My skill set is: Programming, Functional Programming, Algorithm Analysis, Hardware and Architecture, Robotics, Electronics, Concurrent Programming, Networking and Cybersecurity and Blockchain development (beginner).
 
